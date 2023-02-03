@@ -1,0 +1,7 @@
+ASSIGNMENT1:
+
+try ssh authentication menthod for cloning your repo to your local
+
+ASSIGNMENT2:
+TRY all commands from git cheat sheet
+https://education.github.com/git-cheat-sheet-education.pdf
