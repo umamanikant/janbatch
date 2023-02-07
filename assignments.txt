@@ -5,3 +5,10 @@ try ssh authentication menthod for cloning your repo to your local
 ASSIGNMENT2:
 TRY all commands from git cheat sheet
 https://education.github.com/git-cheat-sheet-education.pdf
+
+
+Assignment3: 
+find difference between EAR,WAR,JAR
+
+Assignment4:
+check how to setup jenkins on vm either azure or aws
