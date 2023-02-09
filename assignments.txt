@@ -12,3 +12,7 @@ find difference between EAR,WAR,JAR
 
 Assignment4:
 check how to setup jenkins on vm either azure or aws
+
+Assignments5:
+create a pipeline to print the files existing on the master server-- home directory
+  * this pipeline should auto trigger
