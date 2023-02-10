@@ -16,3 +16,10 @@ check how to setup jenkins on vm either azure or aws
 Assignments5:
 create a pipeline to print the files existing on the master server-- home directory
   * this pipeline should auto trigger
+
+
+Assignment6:
+Find difference between scripted pipeline and declrative pipeline in jenkins
+find difference in ANT, maven and gradle
+explore option in jenkins
+try cron job example you want to execute any job on every monday at 4 PM
