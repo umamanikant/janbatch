@@ -37,3 +37,4 @@ create terraform template to setup below services and it should be in modules st
 1. vm
 2. sql servers
 3. storage account
+try to run terraform code from jenkins pipeline
