@@ -28,3 +28,12 @@ try cron job example you want to execute any job on every monday at 4 PM
 Assignment7:
 try to deploy to terraform code using jenkins pipeline
 try terraform commands from this cheat sheet https://zerotomastery.io/cheatsheets/terraform-cheat-sheet/
+
+
+Assignment8:
+check how to setup ssh authentication between 2 vm
+check real time scenraios where we can use terraform and ansible
+create terraform template to setup below services and it should be in modules structure
+1. vm
+2. sql servers
+3. storage account
